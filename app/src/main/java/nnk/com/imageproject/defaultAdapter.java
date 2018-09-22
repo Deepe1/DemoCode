@@ -12,7 +12,7 @@ import android.widget.ImageView;
  */
 
 public class defaultAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
-
+Button button;
     Context context;
     int images[];
     ImageView imageView;
